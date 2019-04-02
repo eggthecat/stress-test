@@ -1,0 +1,15 @@
+body {
+  color: red;
+}
+
+.form-group {
+  color: purple;
+}
+
+.jumbotron {
+  background-image: url('https://media1.giphy.com/media/R7weSSUjdPdoA/giphy.gif')
+}
+
+.results {
+  display: none;
+}
